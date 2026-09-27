@@ -1,7 +1,6 @@
 # Rule-Based AI Chatbot
 
-responses = 
-{
+responses = {
     "hello": "Hi there! How can I help you?",
     "hi": "Hello! How can I assist you today?",
     "hey": "Hey! What can I do for you?",
